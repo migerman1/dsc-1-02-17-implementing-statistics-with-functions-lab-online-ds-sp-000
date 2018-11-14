@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><testsuite errors="1" failures="0" name="pytest" skips="0" tests="1" time="0.911"><testcase classname="" file="pytests/test_index.py" name="pytests.test_index" time="0"><error message="collection failure">/opt/conda/envs/learn-env/lib/python3.6/site-packages/_pytest/python.py:488: in _importtestmodule
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="1" failures="0" name="pytest" skips="0" tests="1" time="0.492"><testcase classname="" file="pytests/test_index.py" name="pytests.test_index" time="0"><error message="collection failure">/opt/conda/envs/learn-env/lib/python3.6/site-packages/_pytest/python.py:488: in _importtestmodule
     mod = self.fspath.pyimport(ensuresyspath=importmode)
 /opt/conda/envs/learn-env/lib/python3.6/site-packages/py/_path/local.py:668: in pyimport
     __import__(modname)
